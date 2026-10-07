@@ -8,9 +8,9 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-imdeepx11-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imdeepx11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak_Gupta-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imdeepx11)
-[![Instagram](https://img.shields.io/badge/Instagram-deepxk.11_-111827?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deepxk.11_)
+[![GitHub](https://img.shields.io/badge/GitHub-imdeepx11-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imdeepx11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imdeepx11)
+[![Instagram](https://img.shields.io/badge/Instagram-deepxk.11_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deepxk.11_)
 
 </div>
 
