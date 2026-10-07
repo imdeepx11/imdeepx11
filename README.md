@@ -1,20 +1,6 @@
 <div align="center">
 
-```
-██████╗ ███████╗███████╗██████╗  █████╗ ██╗  ██╗
-██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗██║ ██╔╝
-██║  ██║█████╗  █████╗  ██████╔╝███████║█████╔╝ 
-██║  ██║██╔══╝  ██╔══╝  ██╔═══╝ ██╔══██║██╔═██╗ 
-██████╔╝███████╗███████╗██║     ██║  ██║██║  ██╗
-╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝
-
- ██████╗ ██╗   ██╗██████╗ ████████╗ █████╗ 
-██╔════╝ ██║   ██║██╔══██╗╚══██╔══╝██╔══██╗
-██║  ███╗██║   ██║██████╔╝   ██║   ███████║
-██║   ██║██║   ██║██╔═══╝    ██║   ██╔══██║
-╚██████╔╝╚██████╔╝██║        ██║   ██║  ██║
- ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝
-```
+# ⚡ DEEPAK GUPTA
 
 ### ECE Student • Embedded Systems • AI • Builder
 
@@ -111,13 +97,13 @@ Hey! I'm **Deepak Gupta**, an Electronics & Communication Engineering student wh
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imdeepx11&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0b1220" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=imdeepx11&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=7dd3fc&bg_color=0b1220" height="170">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdeepx11&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=ffffff&bg_color=0b1220" height="170">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=imdeepx11&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8">
+<img src="https://streak-stats.demolab.com?user=imdeepx11&theme=transparent&hide_border=true&ring=7dd3fc&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8">
 
 </div>
 
@@ -139,7 +125,7 @@ Hey! I'm **Deepak Gupta**, an Electronics & Communication Engineering student wh
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imdeepx11&bg_color=0b1220&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imdeepx11&bg_color=0b1220&color=ffffff&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="95%">
 
 </div>
 
