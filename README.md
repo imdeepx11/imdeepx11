@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./deepak-pixel-name.svg" alt="DEEPAK GUPTA pixel header" width="100%">
+<img src="./deepak-pixel-name.svg" alt="" width="100%">
 
 </div>
 
