@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ DEEPAK GUPTA
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=9999999&color=F5F0E8&center=true&vCenter=true&width=700&lines=%E2%9A%A1+DEEPAK+GUPTA&repeat=false" alt="⚡ DEEPAK GUPTA" />
 
 ### ECE Student • Embedded Systems • AI • Builder
 
@@ -44,7 +44,7 @@ Hey! I'm **Deepak Gupta**, an Electronics & Communication Engineering student wh
 
 `Embedded Systems` `Sensors` `PWM` `Logic Gates` `Circuit Simulation`
 
-### 🧰 Tools
+### 🛰 Tools
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -58,7 +58,7 @@ Hey! I'm **Deepak Gupta**, an Electronics & Communication Engineering student wh
 <tr>
 <td width="50%">
 
-### 🛰️ SENTINEL-X
+### 🛸️ SENTINEL-X
 **Radar-Assisted Bluetooth-Controlled Autonomous Vehicle**
 
 - Arduino-based rover
@@ -112,11 +112,11 @@ Hey! I'm **Deepak Gupta**, an Electronics & Communication Engineering student wh
 # 🌱 CURRENTLY LEARNING
 
 ```
-[████████████████░░░░]  Embedded Systems
-[████████████░░░░░░░░]  VLSI & Semiconductor Technology
-[██████████████░░░░░░]  AI / Machine Learning
-[█████████████░░░░░░░]  IoT & Communication
-[██████████░░░░░░░░░░]  Data Structures & Algorithms
+[████████████████████░░░░]  Embedded Systems
+[████████████████░░░░░░░░]  VLSI & Semiconductor Technology
+[██████████████████░░░░░░]  AI / Machine Learning
+[████████████████░░░░░░░░]  IoT & Communication
+[██████████░░░░░░░░░░░░░░]  Data Structures & Algorithms
 ```
 
 ---
