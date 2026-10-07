@@ -8,9 +8,9 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-imdeepx11-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imdeepx11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imdeepx11)
-[![Instagram](https://img.shields.io/badge/Instagram-deepxk.11_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deepxk.11_)
+[![GitHub](https://img.shields.io/badge/GitHub-imdeepx11-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imdeepx11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak_Gupta-EAB308?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imdeepx11)
+[![Instagram](https://img.shields.io/badge/Instagram-deepxk.11_-EF4444?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deepxk.11_)
 
 </div>
 
@@ -34,21 +34,22 @@ Hey! I'm **Deepak Gupta**, an Electronics & Communication Engineering student wh
 # ⚒️ TECH STACK
 
 ### 💻 Programming
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" height="35"/>
 
 ### 🔌 Electronics & Embedded
-![Arduino](https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-111827?style=for-the-badge&logo=internetofthings&logoColor=white)
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/IoT-E3720F?style=for-the-badge&logo=internetofthings&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" height="35"/>
 
 `Embedded Systems` `Sensors` `PWM` `Logic Gates` `Circuit Simulation`
 
 ### 🛰 Tools
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-111827?style=for-the-badge&logo=mathworks&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="35"/>
 
 ---
 
@@ -125,7 +126,9 @@ Hey! I'm **Deepak Gupta**, an Electronics & Communication Engineering student wh
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imdeepx11&bg_color=0b1220&color=ffffff&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imdeepx11&theme=react-dark&bg_color=0b1220&color=ffffff&line=7dd3fc&point=7dd3fc&area=true&area_color=7dd3fc&hide_border=true" width="95%" onerror="this.style.display='none'">
+
+> 📌 _Activity graph populates once you start making commits!_
 
 </div>
 
@@ -146,3 +149,4 @@ Hey! I'm **Deepak Gupta**, an Electronics & Communication Engineering student wh
 ![Profile Views](https://komarev.com/ghpvc/?username=imdeepx11&style=for-the-badge&color=111827&label=PROFILE+VIEWS)
 
 </div>
+
