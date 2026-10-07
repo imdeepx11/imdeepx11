@@ -33,23 +33,25 @@ Hey! I'm **Deepak Gupta**, an Electronics & Communication Engineering student wh
 
 # ⚒️ TECH STACK
 
+<div align="center">
+
 ### 💻 Programming
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" height="35"/>
+
+[![Programming](https://skillicons.dev/icons?i=c,java,python&theme=dark)](https://skillicons.dev)
 
 ### 🔌 Electronics & Embedded
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/IoT-E3720F?style=for-the-badge&logo=internetofthings&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" height="35"/>
+
+[![Embedded](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/IoT-E3720F?style=for-the-badge&logo=internetofthings&logoColor=white" height="48"/>
 
 `Embedded Systems` `Sensors` `PWM` `Logic Gates` `Circuit Simulation`
 
 ### 🛰 Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="35"/>
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="48"/>
+
+</div>
 
 ---
 
@@ -149,4 +151,3 @@ Hey! I'm **Deepak Gupta**, an Electronics & Communication Engineering student wh
 ![Profile Views](https://komarev.com/ghpvc/?username=imdeepx11&style=for-the-badge&color=111827&label=PROFILE+VIEWS)
 
 </div>
-
