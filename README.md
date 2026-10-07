@@ -1,6 +1,10 @@
 <div align="center">
 
-# ⚡ DEEPAK GUPTA
+<div align="center">
+
+<img src="./deepak-pixel-name.svg" alt="DEEPAK GUPTA pixel header" width="100%">
+
+</div>
 
 ### ECE Student • Embedded Systems • AI • Builder
 
